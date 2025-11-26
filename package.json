@@ -1,0 +1,17 @@
+{
+  "name": "maxvid",
+  "version": "1.0.0",
+  "description": "maxvid json server use for api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sazzad",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
